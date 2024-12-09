@@ -19,3 +19,40 @@ body {
   background: var(--background);
   font-family: Arial, Helvetica, sans-serif;
 }
+.first{
+  text-align: center;
+  font-family: 'Courier New', Courier, monospacex ;
+  text-decoration: overline;
+  font-size: 2em;
+;
+}
+.third{
+  text-align: center;
+  font-family: 'Times New Roman', Times, serif;
+  text-decoration: underline;
+  font-size: 1.9em;
+
+}
+.sixth{
+ text-align: center;
+  font-family: 'Lucida Console', Monaco, monospace;
+ font-size: 1.6em;
+
+}
+.para{
+  text-align: center;
+  font-family: 'Verdana', Geneva, sans-serif;
+  font-size: 1.3em;
+}
+.button{
+  
+  border: none; 
+   background-color: #4CAF50; 
+   color: white; 
+   padding: 10px 20px; 
+   text-decoration: none; 
+   display: inline-block;
+   font-size: 16px; 
+   margin: 4px 2px;
+   cursor: pointer;
+}
